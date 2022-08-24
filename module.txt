@@ -1,0 +1,18 @@
+naglowek 1
+
+naglowek 2
+
+module 1
+fun 1
+
+fun 2
+
+fun 3
+
+module 2
+
+foo 1
+
+foo 2
+
+foo 3
