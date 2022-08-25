@@ -16,6 +16,29 @@
       "message": "check my \"while\"",
       "revId": "c6411eacc8af1e17886581c7613955a868dd98fe",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "481b271d_68fc669a",
+        "filename": "rob_file.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1020279
+      },
+      "writtenOn": "2022-08-25T09:55:27Z",
+      "side": 1,
+      "message": "fix it",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 1
+      },
+      "revId": "c6411eacc8af1e17886581c7613955a868dd98fe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
