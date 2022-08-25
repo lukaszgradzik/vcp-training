@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "416f807f_773f1c7e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020278
+      },
+      "writtenOn": "2022-08-25T09:30:53Z",
+      "side": 1,
+      "message": "please fix",
+      "revId": "4af833bb6d5d5e530ef43c6e7dda5d35b6fad70b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07f63351_6a7c0f0a",
+        "filename": "luk.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1020278
+      },
+      "writtenOn": "2022-08-25T09:30:53Z",
+      "side": 1,
+      "message": "delete",
+      "revId": "4af833bb6d5d5e530ef43c6e7dda5d35b6fad70b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b6867af_451083c0",
+        "filename": "luk.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1020278
+      },
+      "writtenOn": "2022-08-25T09:30:53Z",
+      "side": 1,
+      "message": "please modify it",
+      "range": {
+        "startLine": 11,
+        "startChar": 1,
+        "endLine": 11,
+        "endChar": 8
+      },
+      "revId": "4af833bb6d5d5e530ef43c6e7dda5d35b6fad70b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
