@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1912fd2c_6c6e835b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020277
+      },
+      "writtenOn": "2022-08-25T09:41:24Z",
+      "side": 1,
+      "message": "prosze o ocene strzalek",
+      "revId": "d07db9afe226900f1cd22fa2bc56a92562401514",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
