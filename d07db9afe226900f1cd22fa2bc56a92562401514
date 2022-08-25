@@ -16,6 +16,23 @@
       "message": "prosze o ocene strzalek",
       "revId": "d07db9afe226900f1cd22fa2bc56a92562401514",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ed7326ee_3e2ab515",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020279
+      },
+      "writtenOn": "2022-08-25T09:44:52Z",
+      "side": 1,
+      "message": "to be corrected",
+      "revId": "d07db9afe226900f1cd22fa2bc56a92562401514",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
