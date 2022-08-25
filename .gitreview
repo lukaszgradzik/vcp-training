@@ -1,0 +1,5 @@
+[gerrit]
+host=https://review.gerrithub.io/c/lukaszgradzik
+defaultremote=origin
+project=vcp-training.git
+defaultbranch=main
