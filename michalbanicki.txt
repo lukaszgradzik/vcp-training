@@ -4,6 +4,6 @@ Perform gerrit test
 
 feaure 1
 
-not working functionality
+working functionality
 
-bug
+eature 2
