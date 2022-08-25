@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a4d2745c_9037da4d",
+        "filename": "ts_f1.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1020279
+      },
+      "writtenOn": "2022-08-25T10:00:01Z",
+      "side": 1,
+      "message": "please correct it",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 5
+      },
+      "revId": "2770442e899c0be7d22419fd26959591ab026fdb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
