@@ -8,3 +8,6 @@ mod by rob
 
 
 ;ala ma kota;lakdsfj;lkj
+
+
+LG changes
