@@ -18,6 +18,46 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0f7c3600_aec66b5a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021001
+      },
+      "writtenOn": "2023-04-04T13:28:13Z",
+      "side": 1,
+      "message": "Kupa.",
+      "revId": "e045a4ef56f948638565b4fb2aae2cd09dc323df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cca106fa_d6574161",
+        "filename": "luk.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1021001
+      },
+      "writtenOn": "2023-04-04T13:28:13Z",
+      "side": 1,
+      "message": "dom*",
+      "range": {
+        "startLine": 3,
+        "startChar": 4,
+        "endLine": 3,
+        "endChar": 7
+      },
+      "revId": "e045a4ef56f948638565b4fb2aae2cd09dc323df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "46e8484b_5cf9d9d6",
@@ -37,6 +77,23 @@
         "endLine": 10,
         "endChar": 12
       },
+      "revId": "e045a4ef56f948638565b4fb2aae2cd09dc323df",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8638bf0b_7d1c82f4",
+        "filename": "luk.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1021001
+      },
+      "writtenOn": "2023-04-04T13:28:13Z",
+      "side": 1,
+      "message": "Ala ma psa, nie kota.",
       "revId": "e045a4ef56f948638565b4fb2aae2cd09dc323df",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
