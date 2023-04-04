@@ -6,4 +6,6 @@ feaure 1
 
 working functionality
 
-eature 2
+feature 2
+
+mesmerizing bug
