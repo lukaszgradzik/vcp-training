@@ -11,3 +11,5 @@ zmiana na rebase
 
 
 LG changes
+
+1
