@@ -9,3 +9,7 @@ working functionality
 feature 2
 
 mesmerizing bug
+
+feature 3
+
+working functionality $ bug in feature 1
