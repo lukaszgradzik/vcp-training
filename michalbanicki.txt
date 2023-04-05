@@ -6,4 +6,4 @@ feaure 1
 
 working functionality
 
-eature 2
+Feature 2
