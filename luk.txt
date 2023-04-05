@@ -7,7 +7,7 @@ gerrit test
 mod by rob
 
 
-teraz lepiej?
+zmiana na rebase
 
 
 LG changes
