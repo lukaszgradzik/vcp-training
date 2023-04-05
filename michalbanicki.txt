@@ -8,4 +8,8 @@ working functionality
 
 feature 2
 
-mesmerizing bug
+mesmerizing funtionality
+
+feature 3
+
+working functionality
